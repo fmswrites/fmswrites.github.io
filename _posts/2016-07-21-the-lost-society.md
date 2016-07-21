@@ -3,6 +3,7 @@ layout: post
 title: The Lost Society
 date: 2016-07-20 09:50:06 UTC
 permalink: /the-lost-society
+description: For centuries we fought each other, killing billions of our own kind. We would fight over land, religion, or any petty difference imaginable. Early in our history the death tolls were not outrageous, maybe a few thousand of the population would be killed every year. However, as our technology advanced we perfected more efficient ways to kill each other, and causing irreparable damage to our world.
 ---
    For centuries we fought each other, killing billions of our own kind. We would fight over land, religion, or any petty difference imaginable. Early in our history the death tolls were not outrageous, maybe a few thousand of the population would be killed every year. However, as our technology advanced we perfected more efficient ways to kill each other, and causing irreparable damage to our world. These advances allowed for the ability to kill “enemies” thousands of miles away, without ever setting foot on their land. We became so effective at killing each other that wars were fought in a matter of hours. Each war would be carefully calculated, focusing on decimating as much of the population at once. This advanced warfare went on for decades as the population slowly dwindled to a few million.
 
