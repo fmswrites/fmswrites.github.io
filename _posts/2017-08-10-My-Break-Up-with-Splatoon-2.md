@@ -3,15 +3,15 @@ layout: post
 title: My Break Up with Splatoon 2
 date: 2017-08-10 09:50:06 UTC
 images:
-  - url: /assets/img/posts/DSC_8763.jpg
-    title: Splatoon 2 Feature
+  - url: /assets/img/posts/DSC\_8763.jpg
+	title: Splatoon 2 Feature
 tags: post
 author: Frank Michael Sanchez
-read_time: 4 Min Read
+read\_time: 4 Min Read
 ---
 Splatoon 2 barely peaked my interest when it was announced for the Switch. I skipped the demo Nintendo released a month before the launch, thinking it wasn’t for me with its kiddie aesthetic. Even though I love shooters like Halo and Doom, Splatoon 2 looked too frantic for me to be able to keep up with from the let’s plays I had seen.
 
-![Switch with Splatoon Amiibo and Toy]({{site.url}}/assets/img/posts/DSC_8756.jpg)
+![Switch with Splatoon Amiibo and Toy][image-1]
 
 When launch day for Splatoon 2 came, I went against my initial judgment and bought the game, based on two reasons. For the first time, I had a small group of friends who were dying to play a multiplayer game together. This helped solve one of my biggest complaints I have with online multiplayer games, playing with random players from the community and not being able to coordinate between everyone.
 
@@ -23,13 +23,13 @@ All me and my friends talked about in our group chat was trying to improve our w
 
 The game shattered my expectations. The fast paced three-minute matches were a blast. Even the unique clothing and modification system, which I was expecting to hate, was straightforward and fun.
 
-![Sad Splatoon Player]({{site.url}}/assets/img/posts/DSC_8763.jpg)
+![Sad Splatoon Player][image-2]
 
 Unfortunately, after three weeks, breaks in my love of Splatoon 2 started to show. Even though I was playing anytime I could during the day, I never matched the amount of skill and hours many of the other players had already devoted.
 
 Not long after the second week, I was competing with people almost ten levels above me. My win-loss ratio dropped drastically, and every day I struggled to return to my previous ratio.
 
-![Lobby with unbalanced players]({{site.url}}/assets/img/posts/DSC_8758.jpg)
+![Lobby with unbalanced players][image-3]
 
 I took a break for a few days to focus on writing and work. The urge to play eventually came back but was quickly squashed when I signed back on. Other players were leaps and bounds above my level, yet I was still matched against them.
 
@@ -40,3 +40,7 @@ After a few days of struggling to keep up, I gave up and stopped playing Splatoo
 Now a month later, the Splatoon 2 icon is still on my Switch home screen. I scroll past it whenever I’m looking for another game to play, hoping to open it one day and relive the initial excitement I had for the game.
 
 Part of me is dying to go back to Splatoon 2, with its vibrant colors and slick shooting mechanics. Unfortunately, until matchmaking is balanced I still can’t enjoy the game. I’m hoping if Nintendo wants Splatoon 2 to be their flagship online shooter for the Switch, they need to get at least the basics of matchmaking correct.
+
+[image-1]:	%7B%7Bsite.url%7D%7D/assets/img/posts/DSC_8756.jpg
+[image-2]:	%7B%7Bsite.url%7D%7D/assets/img/posts/DSC_8763.jpg
+[image-3]:	%7B%7Bsite.url%7D%7D/assets/img/posts/DSC_8758.jpg
