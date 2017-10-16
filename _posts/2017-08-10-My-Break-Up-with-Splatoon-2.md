@@ -4,7 +4,7 @@ title: My Break Up with Splatoon 2
 date: 2017-08-10 09:50:06 UTC
 images:
   - url: /assets/img/posts/DSC_8763.jpg
-	title: Splatoon 2 Feature
+    title: Splatoon 2 Feature
 tags: post
 author: Frank Michael Sanchez
 read_time: 4 Min Read
