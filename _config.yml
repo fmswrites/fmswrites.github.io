@@ -13,7 +13,7 @@ description: 'Short Stories in Science Fiction and General Fiction written by Fr
   Michael Sanchez
 
 '
-baseurl: ''
+baseurl: 
 url: http://fmswrites.com
 markdown: kramdown
 gems:
