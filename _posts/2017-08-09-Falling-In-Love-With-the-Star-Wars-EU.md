@@ -1,13 +1,15 @@
 ---
-layout: post
 title: Falling in Love With the Star Wars EU
-date: 2017-08-09 09:50:06 UTC
+date: 2017-08-09 05:50:06 -04:00
+tags:
+- post
+layout: post
 images:
-  - url: /assets/img/posts/DSC_8744.jpg
-    title: Star Wars EU Feature
-tags: post
+- url: "/assets/img/posts/DSC_8744.jpg"
+  title: Star Wars EU Feature
 author: Frank Michael Sanchez
 ---
+
 The first teaser for the Force Awakens was a mix of emotions for me. Everything was there from sandy landscapes, Stormtroopers, X-Wings, and even an amazing Millennium Falcon sequence with the Star Wars overture blasting in the background. Even when the second trailer was released, I got a little choked up seeing Han and Chewy back on the Falcon. I was convinced that this movie would bring back the child in me that loved the original series.
 
 <div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/MERqXOYXX9hzW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/millennium-falcon-MERqXOYXX9hzW">via GIPHY</a></p>

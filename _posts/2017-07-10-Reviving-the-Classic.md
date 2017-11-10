@@ -1,14 +1,16 @@
 ---
-layout: post
 title: Reviving the Classic
-date: 2017-07-10 09:50:06 UTC
+date: 2017-07-10 05:50:06 -04:00
+tags:
+- post
+layout: post
 images:
-  - url: /assets/img/posts/DSC_8708.jpg
-    title: Reviving the Classic
-tags: post
+- url: "/assets/img/posts/DSC_8708.jpg"
+  title: Reviving the Classic
 author: Frank Michael Sanchez
 read_time: 4 Min Read
 ---
+
 I vividly remember the first time I used a Macintosh. During a trip to Circuit City to purchase my mother’s iPod Mini, there was a display unit of an iMac G4. Initially it wasn’t the Macintosh that grabbed my attention; instead, it was the looping demo of a game called Nanosaur. I loved dinosaurs as a kid, and still do, so the game instantly pulled me in with its dinosaur theme and stunning graphics.
 
 ![iMac G4 running Nanosaur]({{ site.url }}/assets/img/posts/DSC_8708.jpg)

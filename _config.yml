@@ -1,15 +1,23 @@
-# Site settings
+---
 title: FMS Writes
-email: fms1701@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Short Stories in Science Fiction and General Fiction written by Frank Michael Sanchez
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://fmswrites.com" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
 timezone: America/New_York
-gems: [jekyll-feed]
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: fms1701@gmail.com
+description: 'Short Stories in Science Fiction and General Fiction written by Frank
+  Michael Sanchez
+
+'
+baseurl: ''
+url: http://fmswrites.com
+markdown: kramdown
+gems:
+- jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
+- Gemfile
+- Gemfile.lock

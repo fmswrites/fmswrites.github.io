@@ -1,14 +1,16 @@
 ---
-layout: post
 title: My Break Up with Splatoon 2
-date: 2017-08-10 09:50:06 UTC
+date: 2017-08-10 05:50:06 -04:00
+tags:
+- post
+layout: post
 images:
-  - url: /assets/img/posts/DSC_8763.jpg
-    title: Splatoon 2 Feature
-tags: post
+- url: "/assets/img/posts/DSC_8763.jpg"
+  title: Splatoon 2 Feature
 author: Frank Michael Sanchez
 read_time: 4 Min Read
 ---
+
 Splatoon 2 barely peaked my interest when it was announced for the Switch. I skipped the demo Nintendo released a month before the launch, thinking it wasn’t for me with its kiddie aesthetic. Even though I love shooters like Halo and Doom, Splatoon 2 looked too frantic for me to be able to keep up with from the let’s plays I had seen.
 
 ![Switch with Splatoon Amiibo and Toy]({{site.url}}/assets/img/posts/DSC_8756.jpg)
