@@ -2,6 +2,7 @@
 title: Post test
 date: 2017-11-10 11:58:00 -05:00
 published: false
+author: Frank Michael Sanchez
 layout: post
 ---
 
