@@ -1,0 +1,23 @@
+---
+title: FMS Writes
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: fms1701@gmail.com
+description: 'Short Stories in Science Fiction and General Fiction written by Frank
+  Michael Sanchez
+
+'
+baseurl: 
+url: http://fmswrites.com
+markdown: kramdown
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
