@@ -27,17 +27,17 @@ The game shattered my expectations. The fast paced three-minute matches were a b
 
 ![Sad Splatoon Player]({{site.url}}/assets/img/posts/DSC_8763.jpg)
 
-Unfortunately, after three weeks, breaks in my love of Splatoon 2 started to show. Even though I was playing anytime I could during the day, I never matched the amount of skill and hours many of the other players had already devoted.
+Unfortunately, after three weeks, my love of Splatoon 2 started to crack. Even though I was playing anytime I could during the day, I never matched the amount of skill and hours many of the other players had devoted.
 
-Not long after the second week, I was competing with people almost ten levels above me. My win-loss ratio dropped drastically, and every day I struggled to return to my previous ratio.
+Not long after the second week, I was competing with people almost ten levels above me. My win-loss ratio dropped drastically, and every day I struggled to keep it above 3.0.
 
 ![Lobby with unbalanced players]({{site.url}}/assets/img/posts/DSC_8758.jpg)
 
 I took a break for a few days to focus on writing and work. The urge to play eventually came back but was quickly squashed when I signed back on. Other players were leaps and bounds above my level, yet I was still matched against them.
 
-I switched to playing support for my team, focusing on painting every inch of the map I could while avoiding the opposing team at all costs. While this was fun for a while, but it never had a significant impact on the match, causing my team to lose consistently.
+I switched to playing support for my team, focusing on painting every inch of the map I could while avoiding the opposing team at all costs. While this was fun for a while, it never had a significant impact on the match, causing my team to lose non-stop.
 
-After a few days of struggling to keep up, I gave up and stopped playing Splatoon 2. I returned to my PS4, with Crash Bandicoot Remastered and Horizon Zero Dawn, leaving my Switch in its dock waiting for a new game to be released to pull me back in.
+After a few days of struggling, I gave up and stopped playing. I returned to my PS4, with Crash Bandicoot Remastered and Horizon Zero Dawn, leaving my Switch in its dock waiting for a new game to be released to pull me back in.
 
 Now a month later, the Splatoon 2 icon is still on my Switch home screen. I scroll past it whenever I’m looking for another game to play, hoping to open it one day and relive the initial excitement I had for the game.
 
