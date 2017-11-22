@@ -1,27 +1,27 @@
 ---
 title: My Break Up with Splatoon 2
-date: 2017-08-10 05:50:06 -04:00
+date: 2017-08-10 05:50:00 -04:00
 tags:
 - post
-layout: post
 images:
 - url: "/assets/img/posts/DSC_8763.jpg"
   title: Splatoon 2 Feature
 author: Frank Michael Sanchez
 read_time: 4 Min Read
+layout: post
 ---
 
 Splatoon 2 barely peaked my interest when it was announced for the Switch. I skipped the demo Nintendo released a month before the launch, thinking it wasn’t for me with its kiddie aesthetic. Even though I love shooters like Halo and Doom, Splatoon 2 looked too frantic for me to be able to keep up with from the let’s plays I had seen.
 
 ![Switch with Splatoon Amiibo and Toy]({{site.url}}/assets/img/posts/DSC_8756.jpg)
 
-When launch day for Splatoon 2 came, I went against my initial judgment and bought the game, based on two reasons. For the first time, I had a small group of friends who were dying to play a multiplayer game together. This helped solve one of my biggest complaints I have with online multiplayer games, playing with random players from the community and not being able to coordinate between everyone.
+When launch day for Splatoon 2 came, I went against my initial judgment and bought the game. For the first time, I had a small group of friends who were dying to play a multiplayer game together. This helped solve one of my biggest complaints I have with online multiplayer games, playing with random players from the community and not being able to coordinate between everyone.
 
-The second was that I was dying for new game experiences on the Switch. Up until Splatoon 2, I had only three games I would play on the Switch; all of which I was already getting worn out playing. I loved my Switch and wanted to play any game I could on it, even if I wasn’t amazed by the trailers.
+Another big reason was that my Switch games library was very small. Up until Splatoon 2, I had only three games I would play on the Switch; all of which I was already getting worn out playing. I loved my Switch and wanted to play any game I could on it, even if I wasn’t amazed by the trailers.
 
-I purchased Splatoon 2 with little to no expectations other than having $60 worth of entertainment out of it. Not only was my hope met, for almost a solid three weeks Splatoon 2 took over my life. Every day I would jump into the lobby, trying to catch a few matches in the morning before I went to work.
+I purchased Splatoon 2 with little to no expectations. After my first match, the game hooked me. For almost a solid three weeks Splatoon 2 took over my life. Every day I would jump into the lobby, trying to catch a few matches in the morning before I went to work.
 
-All me and my friends talked about in our group chat was trying to improve our win-loss ratio, or debating which weapon we thought was the best. I checked the Switch app nonstop throughout the day, trying not to miss any of the shirts and hats that were released when I was away from my Switch. When they released a leather jacket, and I missed it, I was agitated for not being on the ball to grab it.
+All my friends and I would talk about was trying to improve our win-loss ratio, or debating which weapon we thought was the best. I checked the Switch app nonstop throughout the day, trying not to miss any of the shirts and hats that were released when I was away from my Switch. When I missed the awesome leather jacket, I was agitated for not being on the ball to grab it.
 
 The game shattered my expectations. The fast paced three-minute matches were a blast. Even the unique clothing and modification system, which I was expecting to hate, was straightforward and fun.
 
